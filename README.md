@@ -1,1 +1,2 @@
 # Movie-Recommendation-System
+This is a Content-based Movie Recommendation system that gives the top 10 best recommendations depending on the movie selected. We will be using a dataset from kaggle, the TF-IDF vectorizer common with NLP use cases together with cosine similarity to draw up similarities between the various movies. For data preprocessing, I dealt with missing values to ensure data quality.
